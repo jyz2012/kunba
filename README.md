@@ -12,4 +12,4 @@ Kun-Kun 舞蹈模拟器！
 
 # License
 
-[MIT](https://github.com/wanghao221/ji/blob/main/LICENSE)
+[MIT License](https://github.com/wanghao221/ji/blob/main/LICENSE)
