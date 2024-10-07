@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/SyMind/ji/blob/main/public/kun.png" height="260px">
+    <img src="https://cdn.jsdelivr.net/gh/jyz2012/kunba/public/kun.png" height="260px">
 </p>
 
 <p align="center">请 Star 🌟 这个项目来表达你对坤坤的喜爱 ❤️ 和支持。</p>
